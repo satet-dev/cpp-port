@@ -1,0 +1,1 @@
+**Objective**. I want to use zxing-cpp as a library for my C++ program using CMake as a build tool. I'd like to include "ReadBarcode.h" and its supporting libraries as-is into my project, as is given on the demo on zxing-cpp's README.md demo.
